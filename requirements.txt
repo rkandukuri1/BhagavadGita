@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-dotenv
+openai
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+pydantic
+python-multipart
+huggingface_hub
+torch
+transformers
